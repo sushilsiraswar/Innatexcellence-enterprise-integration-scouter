@@ -15,5 +15,5 @@ This script demonstrates an automated workflow that identifies structural tech-s
 ## 🚀 Quickstart Guide
 1. Clone the repository: `git clone https://github.com`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Set your API access token: `export OPENAI_API_KEY="your-key-here"`
+3. Set your API access token: `export GROQ_API_KEY="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"`
 4. Run the pipeline: `python agent.py`
